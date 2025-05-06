@@ -2,17 +2,22 @@
 
 AI engineer focused on building intelligent, scalable systems. I work on deep learning, computer vision, and wrangling big messy data. I enjoy solving tricky problems—kind of like puzzles, but with more code and fewer missing pieces (usually).
 
-## 🔧 What I Actually Do
-- 🧠 ML/DL: PyTorch, TensorFlow, Keras
-- 📊 Data: PySpark, SQL, pipelines, clustering
-- 🏗️ Backend: Flask, Django
-- 🧰 Tools: Git, Docker, CI/CD, Linux
+## 🔧 What I Actually Do  
+- 🧠 Build and deploy deep learning models using PyTorch, TensorFlow, and Keras  
+- 📊 Design scalable data pipelines and run heavy ETL workloads with PySpark and SQL  
+- 🔍 Work on unsupervised learning tasks like clustering and anomaly detection  
+- 🏗️ Develop APIs and backend services using Flask and Django to serve models or data  
+- 🧰 Use Git, Docker, CI/CD, and Linux daily to ship and maintain reliable code  
 
-## 🛠 Current Focus
-- Graduating
-- Learning PostgreSQL
-- Landing my first intershp 
-- Building fast data pipelines
+
+## :hammer_and_wrench: Current Focus
+- Graduating 
+- Learning PostgreSQL 
+- Landing my first internship 
+- Building faster data pipelines
+- Deploying AI models
+- Diving into NLP 
+- Playing with PyTorch and TensorFlow 
 
 ## 📫 Reach Me
 <div id="badges">
