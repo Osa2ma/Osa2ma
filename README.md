@@ -42,15 +42,6 @@ AI engineer focused on building intelligent, scalable systems. I work on deep le
   <a href="https://www.postgresql.org/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="50" height="50"/>&nbsp;
   </a>
-  <a href="https://www.w3schools.com/sql/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQL.svg" alt="SQL" width="50" height="50"/>&nbsp;
-  </a>
-  <a href="https://spark.apache.org/docs/latest/api/python/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PySpark-Dark.svg" alt="PySpark" width="50" height="50"/>&nbsp;
-  </a>
-  <a href="https://huggingface.co/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HuggingFace-Dark.svg" alt="NLP" width="50" height="50"/>&nbsp;
-  </a>
   <a href="https://releases.ubuntu.com/18.04/">
     <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" width="50" height="50"/>&nbsp;
   </a>          
