@@ -58,6 +58,11 @@ AI engineer focused on building intelligent, scalable systems. I work on deep le
 </div>
 
 
+📎 ###  
+📫 osamamohamedhajaj@gmail.com   
+
+👀 Visitors: ![visitors](https://komarev.com/ghpvc/?username=osa2ma&style=flat&color=blue)
+
 
 
 
