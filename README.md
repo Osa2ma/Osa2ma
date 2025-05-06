@@ -14,7 +14,6 @@ AI engineer focused on building intelligent, scalable systems. I work on deep le
 - Graduating 
 - Learning PostgreSQL 
 - Landing my first internship 
-- Building faster data pipelines
 - Deploying AI models
 - Diving into NLP 
 - Playing with PyTorch and TensorFlow 
