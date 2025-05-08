@@ -4,7 +4,7 @@ AI engineer focused on building intelligent, scalable systems. I work on deep le
 
 ## 🔧 What I Actually Do  
 - 🧠 Build and deploy deep learning models using PyTorch, TensorFlow, and Keras  
-- 📊 Design run heavy ETL workloads with PySpark and SQL  
+- 📊 Running heavy ETL workloads with PySpark and SQL  
 - 🔍 Work on unsupervised learning tasks like clustering, ECLAT and anomaly detection  
 - 🏗️ Develop APIs and backend services using Flask and Django
 - 🧰 Use Git, Docker, CI/CD, and Linux daily to ship and maintain reliable 
