@@ -1,6 +1,6 @@
 # 👋 Hey, Hola and اهلا, I'm Osama
 
-AI engineer focused on building intelligent, scalable systems. I work on deep learning, computer vision, and wrangling big messy data. I enjoy solving tricky problems—kind of like puzzles, but with more code and fewer missing pieces (usually).
+AI Engineer | Data Scientist | Data Analyst focused on building intelligent, scalable systems. My career plan is to become a data scientist and I am currently working on my data analysis skills. I work on deep learning, computer vision, and wrangling big messy data. I enjoy solving tricky problems—kind of like puzzles, but with more code and fewer missing pieces (usually).
 
 ## 🔧 What I Actually Do  
 - 🧠 Build and deploy deep learning models using PyTorch, TensorFlow, and Keras  
@@ -13,6 +13,7 @@ AI engineer focused on building intelligent, scalable systems. I work on deep le
 ## :hammer_and_wrench: Current Focus
 - Graduating 
 - Learning PostgreSQL 
+- Working on my data analysis skills
 - Landing my first internship 
 - Deploying AI models
 - Diving into NLP 
@@ -54,6 +55,15 @@ AI engineer focused on building intelligent, scalable systems. I work on deep le
   </a>
   <a href="https://docs.arduino.cc/learn/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="Arduino" width="50" height="50"/>&nbsp;
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+    <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Excel" width="50" height="50"/>&nbsp;
+  </a>
+  <a href="https://powerbi.microsoft.com/">
+    <img src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Power BI" width="50" height="50"/>&nbsp;
+  </a>
+  <a href="https://www.tableau.com/">
+    <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Tableau" width="50" height="50"/>&nbsp;
   </a>
 </div>
 
