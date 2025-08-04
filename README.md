@@ -55,9 +55,10 @@ AI engineer focused on building intelligent, scalable systems. I work on deep le
   <a href="https://docs.arduino.cc/learn/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="Arduino" width="50" height="50"/>&nbsp;
   </a>
-  <a href="https://support.microsoft.com/en-us/excel">
+ <a href="https://support.microsoft.com/en-us/excel" target="_blank">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Excel.svg" alt="Excel" width="50" height="50"/>&nbsp;
 </a>
+
 <a href="https://learn.microsoft.com/en-us/power-bi/">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PowerBI.svg" alt="Power BI" width="50" height="50"/>&nbsp;
 </a>
