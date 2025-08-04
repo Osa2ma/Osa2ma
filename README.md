@@ -1,13 +1,14 @@
-# 👋 Hey, Hola and اهلا, I'm Osama
+# 👋 Hey, Hola, and أهلاً — I'm Osama
 
-AI engineer focused on building intelligent, scalable systems. I work on deep learning, computer vision, and wrangling big messy data. I enjoy solving tricky problems—kind of like puzzles, but with more code and fewer missing pieces (usually).
+I'm an AI engineer at NMU, currently working as a data analyst, and slowly carving my path into data science. I like working with real-world messy data, digging out useful patterns, and building tools that make decisions smarter. My background is in deep learning, but lately I’ve been focused on making sense of data and building systems that scale.
 
 ## 🔧 What I Actually Do  
-- 🧠 Build and deploy deep learning models using PyTorch, TensorFlow, and Keras  
-- 📊 Running heavy ETL workloads with PySpark and SQL  
-- 🔍 Work on unsupervised learning tasks like clustering, ECLAT and anomaly detection  
-- 🏗️ Develop APIs and backend services using Flask and Django
-- 🧰 Use Git, Docker, CI/CD, and Linux daily to ship and maintain reliable 
+- 🧠 Train and fine-tune deep learning models using PyTorch, TensorFlow, and Keras  
+- 📊 Handle large datasets with PySpark and SQL, often building ETL pipelines from scratch  
+- 🧭 Explore data using clustering, anomaly detection, and association rule mining (like ECLAT)  
+- 🛠️ Build backend tools and APIs using Flask and Django to support data products  
+- 🧰 Use Git, Docker, and CI/CD pipelines regularly to keep things running smoothly  
+
 
 
 ## :hammer_and_wrench: Current Focus
