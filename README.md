@@ -60,15 +60,18 @@ AI engineer focused on building intelligent, scalable systems. I work on deep le
 </a>
 
 
-<a href="https://learn.microsoft.com/en-us/power-bi/">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PowerBI.svg" alt="Power BI" width="50" height="50"/>&nbsp;
+<a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.svg" alt="Power BI" width="50" height="50"/>&nbsp;
 </a>
-<a href="https://www.tableau.com/learn">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Tableau.svg" alt="Tableau" width="50" height="50"/>&nbsp;
+
+<a href="https://www.tableau.com/learn" target="_blank">
+  <img src="https://www.svgrepo.com/download/342280/tableau.svg" alt="Tableau" width="50" height="50"/>&nbsp;
 </a>
-<a href="https://www.r-project.org/">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RLang.svg" alt="R" width="50" height="50"/>&nbsp;
+
+<a href="https://www.r-project.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="50" height="50"/>&nbsp;
 </a>
+
 </div>
 
 
