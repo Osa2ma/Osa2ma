@@ -65,8 +65,9 @@ AI engineer focused on building intelligent, scalable systems. I work on deep le
 </a>
 
 <a href="https://www.tableau.com/learn" target="_blank">
-  <img src="https://www.svgrepo.com/download/342280/tableau.svg" alt="Tableau" width="50" height="50"/>&nbsp;
+  <img src="https://www.svgrepo.com/download/354428/tableau-icon.svg" alt="Tableau" width="50" height="50"/>&nbsp;
 </a>
+
 
 <a href="https://www.r-project.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="50" height="50"/>&nbsp;
