@@ -25,7 +25,7 @@ I'm an AI engineer at NMU, currently working as a data analyst, and slowly carvi
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn Badge"alt="CSS" width="50" height="50"/>&nbsp;
   </a>
 </div>
-- Website: [Currently Working on it]
+
 
 ### :hammer_and_wrench:Languages and Tools :
 <div align="center">
@@ -77,7 +77,7 @@ I'm an AI engineer at NMU, currently working as a data analyst, and slowly carvi
 </div>
 
 
-📎 ###  
+📎 ###  https://osamamohamedhajaj.vercel.app/
 📫 osamamohamedhajaj@gmail.com   
 
 👀 Visitors: ![visitors](https://komarev.com/ghpvc/?username=osa2ma&style=flat&color=blue)
