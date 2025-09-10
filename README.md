@@ -77,7 +77,7 @@ I'm an AI engineer at NMU, currently working as a data analyst, and slowly carvi
 </div>
 
 
-📎 ###  https://osamamohamedhajaj.vercel.app/
+📎 https://osamamohamedhajaj.vercel.app/
 📫 osamamohamedhajaj@gmail.com   
 
 👀 Visitors: ![visitors](https://komarev.com/ghpvc/?username=osa2ma&style=flat&color=blue)
