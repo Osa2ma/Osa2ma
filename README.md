@@ -80,7 +80,7 @@ I'm an AI engineer at NMU, currently working as a data analyst, and slowly carvi
 ## 📎 Portfolio
 [osamamohamedhajaj.vercel.app](https://osamamohamedhajaj.vercel.app/)
 
----
+
 
 ## 📫 Contact
 [osamamohamedhajaj@gmail.com](mailto:osamamohamedhajaj@gmail.com)
