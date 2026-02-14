@@ -50,12 +50,6 @@ I'm an AI engineer at NMU, currently working as a data analyst, and slowly carvi
   <a href="https://releases.ubuntu.com/18.04/">
     <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" width="50" height="50"/>&nbsp;
   </a>          
-  <a href="https://www.raspberrypi.org/learn/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" alt="Raspberry Pi" width="50" height="50"/>&nbsp;
-  </a>
-  <a href="https://docs.arduino.cc/learn/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="Arduino" width="50" height="50"/>&nbsp;
-  </a>
 <a href="https://support.microsoft.com/en-us/excel" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="50" height="50"/>&nbsp;
 </a>
