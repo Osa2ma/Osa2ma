@@ -36,8 +36,7 @@ I want to work on AI that ships. Not research papers that sit on a shelf, but sy
 
 ### When I'm not coding
 
-I'm usually learning something new, whether it's a skill, a concept, or a rabbit hole I stumbled into at 2 AM. I spend a lot of time watching football and have strong opinions about it. I like shows with plot twists that make you rethink everything you just watched. I'm also interested in finance and medical AI, particularly where Arabic NLP is still underserved, and I've been quietly brainstorming startup ideas around problems I see in Egypt that exist globally too. I think in a mix of Arabic and English depending on how deep into a problem I am.
-
+I'm usually learning something new, whether it's a skill, a concept, or a rabbit hole I stumbled into at 2 AM. I spend a lot of time watching football and have strong opinions about it. I like shows with plot twists that make you rethink everything you just watched.
 ---
 
 ### Tools I think in
