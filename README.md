@@ -1,83 +1,100 @@
-# 👋 Hey, Hola, and أهلاً — I'm Osama
-
-I'm an AI engineer at NMU, currently working as a data analyst, and slowly carving my path into data science. I like working with real-world messy data, digging out useful patterns, and building tools that make decisions smarter. My background is in deep learning, but lately I’ve been focused on making sense of data and building systems that scale.
-
-## 🔧 What I Actually Do  
-- 🧠 Train and fine-tune deep learning models using PyTorch, TensorFlow, and Keras  
-- 📊 Handle large datasets with PySpark and SQL, often building ETL pipelines from scratch  
-- 🧭 Explore data using clustering, anomaly detection, and association rule mining (like ECLAT)  
-- 🛠️ Build backend tools and APIs using Flask and Django to support data products  
-- 🧰 Use Git, Docker, and CI/CD pipelines regularly to keep things running smoothly  
-
-
-
-## :hammer_and_wrench: Current Focus
-- Graduating 
-- Learning PostgreSQL 
-- Landing my first internship 
-- Deploying AI models
-- Diving into NLP 
-- Playing with PyTorch and TensorFlow 
-
-## 📫 Reach Me
-<div id="badges">
-  <a href="https://www.linkedin.com/in/osama-mohamed-37b82328a/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn Badge"alt="CSS" width="50" height="50"/>&nbsp;
-  </a>
-</div>
-
-
-### :hammer_and_wrench:Languages and Tools :
 <div align="center">
-  <a href="https://www.learn-c.org/">
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" alt="C" width="50" height="50"/>&nbsp;
-  </a>
-  <a href="https://www.learn-cpp.org/">
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" alt="C++" width="50" height="50"/>&nbsp;
-  </a>  
-  <a href="https://www.learnpython.org/">
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="Python" width="50" height="50"/>&nbsp;
-  </a>
-  <a href="https://pytorch.org/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" alt="PyTorch" width="50" height="50"/>&nbsp;
-  </a>
-  <a href="https://www.tensorflow.org/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="TensorFlow" width="50" height="50"/>&nbsp;
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="50" height="50"/>&nbsp;
-  </a>
-  <a href="https://releases.ubuntu.com/18.04/">
-    <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" width="50" height="50"/>&nbsp;
-  </a>          
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Osama%20Alashkar&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=AI%20Engineer%20from%20Egypt&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=I+build+things+that+think;then+i+make+them+actually+work" alt="Typing SVG" /></a>
 
-<a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.svg" alt="Power BI" width="50" height="50"/>&nbsp;
-</a>
+<br/>
 
-<a href="https://www.tableau.com/learn" target="_blank">
-  <img src="https://www.svgrepo.com/download/354428/tableau-icon.svg" alt="Tableau" width="50" height="50"/>&nbsp;
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-osamamohamedhajaj.vercel.app-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://osamamohamedhajaj.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osamamohamd)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osamamohamedhajaj@gmail.com)
 
+<br/>
 
-<a href="https://www.r-project.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="50" height="50"/>&nbsp;
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=Osa2ma&color=1f6feb&style=flat-square&label=Profile+Views)
+&nbsp;&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/Osa2ma?style=flat-square&color=1f6feb&labelColor=161b22)
 
 </div>
 
+---
 
-## 📎 Portfolio
-[osamamohamedhajaj.vercel.app](https://osamamohamedhajaj.vercel.app/)
+### Hey, I'm Osama.
 
+I'm an AI engineer based in Mansoura, Egypt, finishing up my B.E. in AI Engineering at New Mansoura University. I like building things that go beyond a Jupyter notebook: multi-agent systems that coordinate and reason together, RAG pipelines with actual safety layers, and the kind of AI that runs on a Raspberry Pi in your living room just as comfortably as it does on a cloud GPU.
 
+I'm not the "train a model and call it a day" type. I care about what happens *after* the model works: how it gets packaged, deployed, monitored, and kept from saying something it shouldn't. The whole system, not just the weights.
 
-## 📫 Contact
-[osamamohamedhajaj@gmail.com](mailto:osamamohamedhajaj@gmail.com)
+---
 
+### What I'm looking for
 
+I want to work on AI that ships. Not research papers that sit on a shelf, but systems that solve real problems for real people. I'm looking for AI/ML roles, internships or full-time, in Egypt, the Gulf region, or remote. If your team is building something ambitious with LLMs, agents, or production ML infrastructure, I'd love to hear about it.
 
+---
 
+### When I'm not coding
 
+I'm usually learning something new, whether it's a skill, a concept, or a rabbit hole I stumbled into at 2 AM. I spend a lot of time watching football and have strong opinions about it. I like shows with plot twists that make you rethink everything you just watched. I'm also interested in finance and medical AI, particularly where Arabic NLP is still underserved, and I've been quietly brainstorming startup ideas around problems I see in Egypt that exist globally too. I think in a mix of Arabic and English depending on how deep into a problem I am.
+
+---
+
+### Tools I think in
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Osa2ma&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osa2ma&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Osa2ma&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Osa2ma&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Osa2ma&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
+
+</div>
