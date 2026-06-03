@@ -72,21 +72,34 @@ I'm usually learning something new, whether it's a skill, a concept, or a rabbit
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Osa2ma&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osa2ma&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<!-- GITHUB STATS & TOP LANGUAGES                                                        -->
+<!-- The public github-readme-stats instance was shut down in Jan 2026.                   -->
+<!-- To get these cards working, deploy your own Vercel instance:                         -->
+<!--   1. Fork https://github.com/anuraghazra/github-readme-stats                        -->
+<!--   2. Go to vercel.com → "Add New Project" → import your fork                        -->
+<!--   3. Add environment variable PAT_1 = a GitHub Personal Access Token (classic)       -->
+<!--      with "read:user" scope (Settings → Developer settings → Tokens)                 -->
+<!--   4. Deploy. Your URL will be something like github-readme-stats-osa2ma.vercel.app   -->
+<!--   5. Uncomment the two lines below and replace YOUR_STATS_DOMAIN:                    -->
 
-<br/><br/>
+<!-- <img height="180em" src="https://YOUR_STATS_DOMAIN/api?username=Osa2ma&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" /> -->
+<!-- &nbsp;&nbsp; -->
+<!-- <img height="180em" src="https://YOUR_STATS_DOMAIN/api/top-langs/?username=Osa2ma&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" /> -->
+<!-- <br/><br/> -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Osa2ma&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img src="https://streak-stats.demolab.com/?user=Osa2ma&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Osa2ma&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb" width="95%"/>
 
-<br/><br/>
+<!-- TROPHIES: same situation as stats. Deploy your own:                                  -->
+<!--   1. Fork https://github.com/ryo-ma/github-profile-trophy                           -->
+<!--   2. Deploy to Vercel the same way                                                   -->
+<!--   3. Uncomment and replace YOUR_TROPHY_DOMAIN:                                       -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=Osa2ma&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
+<!-- <br/><br/> -->
+<!-- <img src="https://YOUR_TROPHY_DOMAIN/?username=Osa2ma&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" /> -->
 
 </div>
 
