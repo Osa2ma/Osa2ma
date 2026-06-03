@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Osama%20Alashkar&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=AI%20Engineer%20from%20Egypt&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=180&section=header&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=I+build+things+that+think;then+i+make+them+actually+work" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey,+I'm+Osama;Full+Stack+AI+Engineer+%7C+Data+Analyst" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -20,8 +20,6 @@
 
 ---
 
-### Hey, I'm Osama.
-
 I'm an AI engineer based in Mansoura, Egypt, finishing up my B.E. in AI Engineering at New Mansoura University. I like building things that go beyond a Jupyter notebook: multi-agent systems that coordinate and reason together, RAG pipelines with actual safety layers, and the kind of AI that runs on a Raspberry Pi in your living room just as comfortably as it does on a cloud GPU.
 
 I'm not the "train a model and call it a day" type. I care about what happens *after* the model works: how it gets packaged, deployed, monitored, and kept from saying something it shouldn't. The whole system, not just the weights.
@@ -37,6 +35,7 @@ I want to work on AI that ships. Not research papers that sit on a shelf, but sy
 ### When I'm not coding
 
 I'm usually learning something new, whether it's a skill, a concept, or a rabbit hole I stumbled into at 2 AM. I spend a lot of time watching football and have strong opinions about it. I like shows with plot twists that make you rethink everything you just watched.
+
 ---
 
 ### Tools I think in
@@ -76,9 +75,9 @@ I'm usually learning something new, whether it's a skill, a concept, or a rabbit
 <!-- The public github-readme-stats instance was shut down in Jan 2026.                   -->
 <!-- To get these cards working, deploy your own Vercel instance:                         -->
 <!--   1. Fork https://github.com/anuraghazra/github-readme-stats                        -->
-<!--   2. Go to vercel.com → "Add New Project" → import your fork                        -->
+<!--   2. Go to vercel.com > "Add New Project" > import your fork                        -->
 <!--   3. Add environment variable PAT_1 = a GitHub Personal Access Token (classic)       -->
-<!--      with "read:user" scope (Settings → Developer settings → Tokens)                 -->
+<!--      with "read:user" scope (Settings > Developer settings > Tokens)                 -->
 <!--   4. Deploy. Your URL will be something like github-readme-stats-osa2ma.vercel.app   -->
 <!--   5. Uncomment the two lines below and replace YOUR_STATS_DOMAIN:                    -->
 
